@@ -1,0 +1,23 @@
+.site-layout-background{
+    background: #ffff;
+    padding: 24px;
+    min-height: 200px;
+    
+}
+.header {
+    padding: 40px;
+    font-size: 40px;
+    text-align: center;
+    background: white;
+}
+.logo{
+    width: 120px;
+    height: 31px;
+        display:block;
+        margin:auto;
+        
+}
+.imagen {
+  text-align: center;
+  background: white;
+}
