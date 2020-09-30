@@ -1,0 +1,11 @@
+.site-layout-content{
+    background: #ffff;
+    padding: 24px;
+    min-height: 200px;
+}
+.logo{
+    width: 120px;
+    height: 31px;
+    background: rosybrown (255, 255, 255, 0,2);
+    margin: 14px 24px 16px 0;
+}
